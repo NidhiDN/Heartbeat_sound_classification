@@ -21,3 +21,20 @@ A user-friendly website built with Streamlit classifies heartbeat audio into fiv
 
 ### Description
 <img height="500" width="900" alt="260729574-8e363a26-08ad-47bf-b8ac-04af869f22f5" src="https://github.com/user-attachments/assets/6deff78a-98d1-4afb-902e-c46c23735ea0">
+
+##  Features
+---
+- The project uses CNN/RNN algorithms to classify heartbeat audio into five categories, providing accurate and insightful analysis for cardiovascular health monitoring.
+- A user-friendly website built with Streamlit offers an intuitive platform for uploading and analyzing heartbeat audio, deployed on a Raspberry Pi 4 for a cost-effective and portable solution.
+
+##  Tech Stack
+
+-Python
+
+### Requirements
+- Pycharm
+- Streamlit
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
