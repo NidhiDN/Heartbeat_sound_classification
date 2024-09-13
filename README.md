@@ -1,1 +1,2 @@
-# Heartrate_classification_system
+# Heartbeat sound classification system using deep learning techniques
+A user-friendly website built with Streamlit classifies heartbeat audio into five categories using CNN/RNN algorithms in Python. Deployed on a Raspberry Pi 4, it offers a cost-effective solution for heartbeat analysis. This project harnesses machine learning to provide insightful health monitoring and support accurate cardiovascular diagnostics.
